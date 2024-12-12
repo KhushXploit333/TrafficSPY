@@ -18,7 +18,7 @@ Protocol Analysis: Provides insights into specific protocols (e.g., HTTP, FTP, S
 Clone the Repository:
 
      ```Bash
-      git clone https://github.com/your_username/NetSniffer.git
+      git clone https://github.com/Thencrypt-K3/TrafficSPY.git
 
        pip install scapy
        
